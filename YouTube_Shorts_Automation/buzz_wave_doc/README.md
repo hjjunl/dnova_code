@@ -1,9 +1,8 @@
 #### Company Documents (ppt, doc)
 - Freelancer code
-- PPT for the explaination
+- PPT for the service explaination
 - Company lists for the cold mail
+- 대부분은 google docs를 통해 관리
 
-#### File Descriptions
-- coldmail_copywrting.docx: 잠재 고객사에게 보내는 메일 포멧
-- yt_shorts_automation.pptx: 기업 설명 ppt
-- 기업 리스트_coldmail.xlsx: cold mail 기업 리스트 / FAQ
+#### 외주결과
+- fiverr 외주 코드
