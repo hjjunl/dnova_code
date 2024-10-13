@@ -1,0 +1,21 @@
+#########for bot#######
+run the latest file "working code 18-5-24.py"
+use some english based account to login to youtube as logic is wrtten in english in code. 
+text must be appear in english for smooth working of the code. 
+video is also attached. |
+
+##########to veiw data#######
+MS office does not suport korean content in csv file, that is why data breaked when we open it in ms excel. 
+
+#solution#
+open csv file online at https://www.convertcsv.com/
+then download as  excel  file. then we can veiw data properly. 
+video guide is attached. 
+
+
+####Ratting####
+plz rate and comment my work , may also include tip as you promised. 
+
+
+plz do consider my services for future projects. 
+thank you. 
