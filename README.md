@@ -1,23 +1,26 @@
 ## YouTube Shorts Report Automation
 ### Business 개요
-##### Company Name: Buzz Wave
+##### Company Name: D'NOVA
+##### Company Website: https://www.d-nova.com
+##### Company Notion: [URL](https://www.notion.so/465d81e4aa0f4ad287d8895099e58541?v=48dd9b01b0474cd3b1e2fed9fda9a832)
 ##### Company Vision: Follow up all the precious shorts for the customers' wow factor
 ##### Company Service
 - YouTube shorts weekly/monthly 리포트
 - YouTube Category, 기업별 추천 키워드 제공
-- 제품 판매에 적합한 인플루언서 매칭 (키워드, 카테고리)
+- 제품 판매에 적합한 인플루언서 추천 (TBD)
+- Shorts Trend ChatBot (TBD)
 ##### Service Strength 
 - 넓은 범위에서 경쟁사의 디지털 마케팅 shorts 파악 가능
-- 현재 소비자가 주목하는 바이럴 영상 F/up 가능 (타회사 확인된바 없음)
-- Trend 파악을 통해 콘텐츠 제작 및 기획 지원 가능
+- 고객에 따른 현재 소비자가 주목하는 바이럴 영상 F/up
+- 고객에 따른 Trend 파악을 통해 콘텐츠 제작 및 기획 지원
 ##### Market: Digital Marketing
-##### Market Share: USD 360.03 billion in 2023 -> 지속 성장 예정
-
-### Google 공유 파일 url 
-- https://docs.google.com/spreadsheets/d/1oYhC9Q7MWWu2ua9xsumtEEz_A3EG0VnfcboPM6nfEGI/edit#gid=1519260239
-- 
+### D'NOVA 공유 URL 
+- [설문 조사](https://docs.google.com/spreadsheets/d/1B1zZJ7kdp6gLPxaEnTu4B-rCjIuUh_aMoBEa_Z1GYME/edit?userstoinvite=jyj960814%40gmail.com&sharingaction=manageaccess&role=writer&gid=0#gid=0)
+- [Digital Marketing Service 기업조사 & Value ladder](https://docs.google.com/spreadsheets/d/1oM3A_r_hl1rxmj_eWtBJTCd-zgx7IPew/edit?gid=829630201#gid=829630201)
+- [YT_shorts_고도화 방안](https://docs.google.com/spreadsheets/d/1Qj86c5nKAl-hjAYXD6fdpnfINPEHHCYSKZK5Ssin0S8/edit?gid=897812662#gid=897812662)
+- [기업 리스트_coldmail](https://docs.google.com/spreadsheets/d/1uvB_hnLGreWP75JdRDAMaA6ZIFCecuoh/edit?gid=1698622822#gid=1698622822)
 ---------------------------------------------------------------------------------------------------------------------
-### Copy 구상
+### 고객 및 컨셉
 ##### 1. Who am I writing to? Who is my avatar? (고객)
 - 유튜브 쇼츠 트렌드 파악을 통해 현재 컨텐츠 소비자들이 어떤 쇼츠를 좋아하고 관심을 갖는지 지속적으로 정보를 받기를 바라는 사람들 (youtuber, digital marketer, 틱톡, IG)
 ##### 2. What are they thinking feeling? Where are they inside my funnel? 
@@ -34,20 +37,5 @@
 - YouTuber: 자신의 유튜브와 비슷한 유튜브 쇼츠 트렌드를 파악하여 구독자 증가 및 영상 제작에 도움을 얻고 싶음
 - 디지털 마케터: 신규 컨텐츠 제작 / 디지털 마케팅 고도화 / 현 시점 YouTube 트렌드 파악
 ----------------------------------------------------------------------------------------------------------
-### Process
-##### 1. YouTuber.me Ranking YouTube Channel Data -> weekly check
-- Korea Channel: 15 categories per each
-- Global Channel(30개국): 15 categories per each
-##### 2. Collecting Shorts daily
-- daily 데이터 수집
-- daily 데이터 중 눈에 많이 띄는 쇼츠 같은 경우는 Urgent 느낌으로 Advanced 이상 고객에게 간략히 데이터 전달
-- daily 데이터에 대한 리포트를 매주 월요일 아침 9시까지 전 고객에게 전달
-------------------------------------------------------------------------------------------------------------------
-## Data
--------------------------------------------------------------------------------------------------------------------
-### 0429 계획
-- 코드 테스트 및 데이터 수집후 잠재 고객 회사에 cold mail 전달
-- 무료로 얻은 인사이트를 카테고리별 정리 및 ranking을 매겨서 Google Form 작성자들에게 전달
-- Cold mail 전달 시 스타트업 창업 지원을 받을 수 있도록 미리 확인하고 지원
-- 해당 리포트에 대한 인사이트를 뽑을 사람 구하기
+
 
