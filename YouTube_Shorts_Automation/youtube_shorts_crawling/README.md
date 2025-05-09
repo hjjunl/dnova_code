@@ -17,9 +17,6 @@ This folder contains scripts and resources used for collecting YouTube Shorts da
 | `scraperAPI/` | API-based crawling logic (e.g., using services like ScraperAPI or proxies). |
 | `top_yt_shorts_crawling/` | Core scripts for extracting top YouTube Shorts by views, likes, or recency. |
 | `README.md` | This file. |
-| Other `.ppt`, `.docx`, `.pdf` files | Company-related documents such as:<br>– Service introduction decks<br>– Cold email copywriting<br>– Lists of target companies<br>– Marketing study materials<br>Most documents are managed primarily via Google Docs. |
-| Fiverr code | Crawling code and outputs developed by freelancers. |
-
 ## 🛠️ Notes
 
 - This folder includes contributions from external freelancers (e.g., via Fiverr).
